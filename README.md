@@ -4,7 +4,6 @@ Orchis-Dark GTK theme + Papirus Icons + GNOME Shell theme + GRUB + Extension + S
 
 ## Installation
 
-cd leo-theme-pack
 bash install.sh
 
 Then **logout → login**.
